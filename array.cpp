@@ -2,9 +2,11 @@
 using namespace std;
 int main()
 {
-    int x, y;
-    cout << "enter tow number " << endl;
-    cin >> x >> y;
-    cout << "sum of tow numbers=" << x + y << endl;
+    int num[10]{10,10,10,10,10,10,10,10,10,10};
+    for (int i=0;i<=9;i++)
+    {
+    cout <<num[i]<< endl;
+
+    }
     return 0;
 }
