@@ -5,7 +5,7 @@ int main()
 
 cout <<"hallo"<<endl;
 
-
+cout << "what is your name\n";
 
 
 
