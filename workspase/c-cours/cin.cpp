@@ -10,9 +10,8 @@ double plusFuncDouble(double x, double y) {
 }
 
 int main() {
-  int myNum1 = plusFuncInt(8, 5);
-  double myNum2 = plusFuncDouble(4.3, 6.26);
-  cout << "Int: " << myNum1 << "\n";
-  cout << "Double: " << myNum2;
+  
+  cout << "Int: " << plusFuncInt(10,15) << "\n";
+  cout << "Double: " << plusFuncDouble(10.5,12.8) << endl;
   return 0;
 }
