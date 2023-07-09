@@ -25,7 +25,7 @@ int main()
 
     print();
     print(10);
-    print(1, 15);
+    print(2, 15);
 
     return 0;
 }
